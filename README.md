@@ -1,5 +1,5 @@
 # FDE_discovery
-Code for "A Data-Driven framework for discovering fractional  differential equations in complex Systems"
+Code for "A Data-Driven framework for discovering fractional  differential equations in complex systems"
 
 1. Run NN_pde.py/NN_ode.py/NN_pt.py for training data.
 
